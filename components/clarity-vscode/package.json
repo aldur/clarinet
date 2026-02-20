@@ -267,7 +267,7 @@
     "rimraf": "^6.0.1",
     "swc-loader": "^0.2.3",
     "typescript": "^5.0.2",
-    "webpack": "^5.76.0",
+    "webpack": "^5.105.2",
     "webpack-cli": "^6.0.1"
   }
 }
